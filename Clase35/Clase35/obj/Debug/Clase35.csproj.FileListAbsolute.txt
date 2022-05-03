@@ -1,0 +1,10 @@
+C:\Users\Navegador\source\repos\Clase35\Clase35\bin\Debug\Clase35.exe.config
+C:\Users\Navegador\source\repos\Clase35\Clase35\bin\Debug\Clase35.exe
+C:\Users\Navegador\source\repos\Clase35\Clase35\bin\Debug\Clase35.pdb
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.csproj.AssemblyReference.cache
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.Form1.resources
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.Properties.Resources.resources
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.csproj.GenerateResource.cache
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.csproj.CoreCompileInputs.cache
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.exe
+C:\Users\Navegador\source\repos\Clase35\Clase35\obj\Debug\Clase35.pdb
